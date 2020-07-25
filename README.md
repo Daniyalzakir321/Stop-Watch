@@ -1,4 +1,4 @@
-# _Stop Watch (Responsive)._
+# _Stop Watch Responsive._
 
 ## *Developed by using Html, CSS, Bootstrap, Javascript and deployed to Firebase.*
 
